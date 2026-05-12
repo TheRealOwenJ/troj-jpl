@@ -1,2 +1,31 @@
 # troj-jpl
 License for lazy devs.
+
+# TROJ-JPL License V1
+May 2026
+
+Copyright (c) 2026 TheRealOwenJ
+troj@newo.live
+
+This software is free to use, modify, share, and improve.
+
+You are allowed to:
+- Use the software
+- Modify the code
+- Share original or modified versions
+- Include it in your own projects
+
+The rules are simple:
+
+1. Give visible credit.
+   Do not remove the original author's name or pretend you made the whole thing yourself.
+
+2. If you modify the project, make actual changes.
+   Renaming variables, changing spacing, or other useless edits do not count as meaningful contributions.
+
+3. Keep this license included with the software.
+
+If you ignore these rules, your permission to use or distribute this software ends automatically.
+
+This software comes as-is.
+If it breaks your computer, deletes your homework, launches your toaster into orbit, or causes any other damage, that's on you.
